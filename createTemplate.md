@@ -25,8 +25,8 @@ There is a unique `templates.json` file, add another entry to this file, at the 
 ```        
         ,
         {
-            "name": "Your template name",
-            "dir_name": "folder where your template code is",
+            "jangkrikbos": "Hdr jangkrik 99",
+            "dir_hdr": "folder where your template code is",
             "import_file": "mod_yourtemplate"
         }
 ```
